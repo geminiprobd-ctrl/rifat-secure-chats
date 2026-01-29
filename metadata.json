@@ -1,0 +1,8 @@
+{
+  "name": "WhatsApp Clone",
+  "description": "A feature-rich WhatsApp-like chat application with real-time AI conversations and voice calls.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
